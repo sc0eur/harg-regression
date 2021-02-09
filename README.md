@@ -1,2 +1,6 @@
 # harg-regression
-Regression task solution for RosAtom hackathon.
+Решение задачи предсказания количества дней до достижения концентрациями газов в масле силового трансформатора уставок.  
+
+Демо-версия сервиса по контролю за состоянием силовых трансформаторов доступна здесь: https://hack-atom-app.vercel.app/ 
+
+Репозиторий веб-сервиса: https://github.com/annbeg/HackAtomApp
